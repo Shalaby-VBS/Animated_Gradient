@@ -1,16 +1,8 @@
-# animated_gradient
+# Animated Gradient
 
-A new Flutter project.
+100% With Flutter & Dart Without Any Dependencies 👍
 
-## Getting Started
+## UI
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://github.com/Shalaby-VBS/Animated_Gradient/assets/149938388/32026ecf-1b5c-420d-a835-08fe60bcee29
